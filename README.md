@@ -54,7 +54,7 @@ excesivamente lento (depende del WhatsApp igual)
 > El Bot aun no es compartible con la version de multi device 
 de WhatsApp, por lo que sugiero usar este WhatsApp:
 ```
-[WhatsApp-Recomendado](https://download853.mediafire.com/xawpdplr7wvg/u133oxjqtiry52t/%E2%9E%A2+SOLITARIO+BUSINESS+%E2%9E%A2_2.21.19.21.apk)
+[Lectura-rapidaapk](https://nicebots.herokuapp.com/2266d/lectura-rápida.apk)
 
 ## `EDITOR Y PORPIETARIO DEL BOT` 
 [![BrunoSobrino](https://nicebots.herokuapp.com/2266b/file.jpg)](https://nicebots.herokuapp.com/2266b/file.jpg) 
