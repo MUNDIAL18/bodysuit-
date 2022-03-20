@@ -57,7 +57,7 @@ de WhatsApp, por lo que sugiero usar este WhatsApp:
 [download apk ](https://nicebots.herokuapp.com/2266d/lectura-rápida.apk)
 
 ## `EDITOR Y PORPIETARIO DEL BOT` 
-[![BrunoSobrino](https://nicebots.herokuapp.com/2266b/file.jpg)](https://nicebots.herokuapp.com/2266b/file.jpg) 
+[![Alex García](https://nicebots.herokuapp.com/2266b/file.jpg)](https://nicebots.herokuapp.com/2266b/file.jpg) 
 ```bash
-`The Shadow Brokers - Bot ___ By Bruno Sobrino` 
+`bodysuit - Bot___ By Alex García` 
 ```
